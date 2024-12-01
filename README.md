@@ -4,4 +4,4 @@
 
 ### Story Summary
 *By day:*
-1. Some dude went missing and we checked locations on a map to figure out where he might be.
+1. Some dude went missing and we checked locations on a map to figure out where he might be. 👀
